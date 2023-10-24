@@ -92,3 +92,6 @@ while len(results) < num_proverbs:
 print('Сгенерированные пословицы:')
 for proverb in results:
     print(proverb.capitalize())
+
+
+input('\n\nНажмите "ENTER" для завершения.')

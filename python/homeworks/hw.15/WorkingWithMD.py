@@ -50,4 +50,4 @@ new_content = '\n'.join(splitted_content)
 write_md_file(new_content, new_file_name)
 
 
-input('\nНажмите "ENTER" для завершения.')
+input('\n\nНажмите "ENTER" для завершения.')

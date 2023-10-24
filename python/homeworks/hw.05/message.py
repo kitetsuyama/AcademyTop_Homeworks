@@ -13,4 +13,5 @@ for row in secret_letter:
             print(letters, end='')
     print(' ', end='')
 
-input('\nНажмите "ENTER" для завершения.')
+
+input('\n\nНажмите "ENTER" для завершения.')

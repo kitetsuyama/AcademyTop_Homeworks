@@ -17,7 +17,7 @@ def password_check():
 password_check()
 
 
-input('\nНажмите "ENTER" для завершения.')
+input('\n\nНажмите "ENTER" для завершения.')
 
 
 # !!! Мои вводы !!!

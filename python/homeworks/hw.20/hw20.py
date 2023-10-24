@@ -108,6 +108,9 @@ except ValueError as e:
     print(f'\n  Ошибка: \n{e}')
 
 
+input('\n\nНажмите "ENTER" для завершения.')
+
+
 # Проверка mypy
 # (venv) PS D:\1ucheba\PycharmProjects\pyExp> mypy .\1homework\hw.20_07.10.23\hw20.py
 # Success: no issues found in 1 source file

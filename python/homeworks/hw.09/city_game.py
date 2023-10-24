@@ -52,4 +52,4 @@ def game():
 game()
 
 
-input('\nНажмите "ENTER" для завершения.')
+input('\n\nНажмите "ENTER" для завершения.')

@@ -13,4 +13,4 @@ result = find_intersection(alex_list, max_list)
 print(result)
 
 
-input('\nНажмите "ENTER" для завершения.')
+input('\n\nНажмите "ENTER" для завершения.')

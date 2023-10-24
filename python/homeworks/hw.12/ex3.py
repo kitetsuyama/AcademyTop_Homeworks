@@ -17,7 +17,7 @@ print(strings)
 print(longest_string(strings))
 
 
-input('\nНажмите "ENTER" для завершения.')
+input('\n\nНажмите "ENTER" для завершения.')
 
 
 # Мои вводы

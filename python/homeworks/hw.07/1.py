@@ -10,7 +10,8 @@ for item in data:
 print(new_list)
 
 
-input('\nНажмите "ENTER" для завершения.')
+input('\n\nНажмите "ENTER" для завершения.')
+
 
 # Результат:
 # Данные невалидны: 4d

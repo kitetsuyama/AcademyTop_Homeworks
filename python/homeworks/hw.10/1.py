@@ -19,4 +19,4 @@ for city in cities:
     print(city)
 
 
-input('\nНажмите "ENTER" для завершения.')
+input('\n\nНажмите "ENTER" для завершения.')

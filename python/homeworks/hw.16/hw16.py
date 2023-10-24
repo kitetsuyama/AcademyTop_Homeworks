@@ -29,7 +29,7 @@ pprint({'Задание 5': str_dict})
 pprint({'Задание 6': filtered_dict_startswith_ch})
 
 
-input('\nНажмите "ENTER" для завершения.')
+input('\n\nНажмите "ENTER" для завершения.')
 
 
 # Мой ввод
