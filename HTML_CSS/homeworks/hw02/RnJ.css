@@ -1,0 +1,17 @@
+* {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.text-center {
+    text-align: center;
+    color: rgb(13, 1, 124);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.textgray {
+    color: grey;
+    font-size: large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+em {
+    font: italic 14pt/1.5 Cambria, serif;
+    font-size: small;
+}

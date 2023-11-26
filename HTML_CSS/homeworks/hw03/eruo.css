@@ -1,0 +1,73 @@
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 120px;
+    width: 11em;
+}
+ol {
+    font-weight: 600;
+}
+ul {
+    font-weight: 300;    
+    text-decoration-line: underline;
+}
+li {
+    line-height: 120%;
+}
+
+#group {
+    list-style-image: url(markers/football.png)
+}
+
+#pol {
+    list-style-image: url(markers/poland.png)
+}
+#rus {
+    list-style-image: url(markers/russia.png)
+}
+#cze {
+    list-style-image: url(markers/czech.png)
+}
+#grc {
+    list-style-image: url(markers/greece.png)
+}
+
+#deu {
+    list-style-image: url(markers/germany.png)
+}
+#nld {
+    list-style-image: url(markers/netherlands.png)
+}
+#prt {
+    list-style-image: url(markers/portugal.png)
+}
+#dnk {
+    list-style-image: url(markers/denmark.png)
+}
+
+#esp {
+    list-style-image: url(markers/spain.png)
+}
+#ita {
+    list-style-image: url(markers/italy.png)
+}
+#hrv {
+    list-style-image: url(markers/croatia.png)
+}
+#irl {
+    list-style-image: url(markers/ireland.png)
+}
+
+#ukr {
+    list-style-image: url(markers/ukraine.png)
+}
+#aia {
+    list-style-image: url(markers/england.png)
+}
+#fra {
+    list-style-image: url(markers/france.png)
+}
+#swe {
+    list-style-image: url(markers/sweden.png)
+}

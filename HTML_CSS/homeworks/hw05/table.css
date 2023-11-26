@@ -1,0 +1,32 @@
+table {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border-collapse: collapse;
+    margin: auto;
+    text-align: center;
+    width: 400px;
+    height: 250px;
+}
+
+td {
+    border: 2px ridge gray;
+}
+
+.col1 {
+    width: 50px;
+}
+
+.col2 {
+    width: 10px;
+}
+
+.col3 {
+    width: 200px;
+}
+
+td:hover {
+    background-color: rgba(0, 0, 0, 0.1);
+}
+
+b {
+    font-family: cursive;
+}
