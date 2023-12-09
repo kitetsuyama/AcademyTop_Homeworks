@@ -112,3 +112,6 @@ print("Невалидные данные!!!")
 pprint(invalid_data)
 print("Валидные данные!!!")
 pprint(valid_data)
+
+
+input('\n\nНажмите "ENTER" для завершения.')
